@@ -1,0 +1,1 @@
+{"name":"Local: phan_tu_gan_K_nhat","url":"d:\\work\\DEVC++(PTIT)\\phan_tu_gan_K_nhat.cpp","tests":[{"id":1715589363290,"input":"1\n6\n1 3 5 7 9 11\n2 7","output":"5 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\work\\DEVC++(PTIT)\\phan_tu_gan_K_nhat.cpp","group":"local","local":true}
